@@ -1,6 +1,6 @@
 # Data Wrangling
 
-I perform the following operations using Python on any open-source dataset (e.g., `data.csv`):
+Perform the following operations using Python on any open-source dataset (e.g., `data.csv`):
 
 1. **Import all the required Python Libraries.**
 

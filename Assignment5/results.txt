@@ -1,0 +1,60 @@
+RANDOM_STATE=27
+TEST_SIZE=0.25
+--- Confusion Matrix Elements ---
+True Positives (TP): 25
+False Positives (FP): 5
+True Negatives (TN): 60
+False Negatives (FN): 10
+
+--- Performance Metrics ---
+Accuracy:   0.8500
+Error Rate: 0.1500
+Precision:  0.8333
+Recall:     0.7143
+F1:    0.7692
+
+RANDOM_STATE=27
+TEST_SIZE=0.2
+--- Confusion Matrix Elements ---
+True Positives (TP): 19
+False Positives (FP): 5
+True Negatives (TN): 49
+False Negatives (FN): 7
+
+--- Performance Metrics ---
+Accuracy:   0.8500
+Error Rate: 0.1500
+Precision:  0.7917
+Recall:     0.7308
+F1:    0.7600
+
+RANDOM_STATE=14
+TEST_SIZE=0.2
+--- Confusion Matrix Elements ---
+True Positives (TP): 24
+False Positives (FP): 3
+True Negatives (TN): 45
+False Negatives (FN): 8
+
+--- Performance Metrics ---
+Accuracy:   0.8625
+Error Rate: 0.1375
+Precision:  0.8889
+Recall:     0.7500
+F1:    0.8136
+
+RANDOM_STATE=142
+TEST_SIZE=0.3
+--- Confusion Matrix Elements ---
+True Positives (TP): 28
+False Positives (FP): 8
+True Negatives (TN): 72
+False Negatives (FN): 12
+
+--- Performance Metrics ---
+Accuracy:   0.8333
+Error Rate: 0.1667
+Precision:  0.7778
+Recall:     0.7000
+F1:    0.7368
+
